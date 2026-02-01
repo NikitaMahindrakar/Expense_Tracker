@@ -55,3 +55,12 @@ Render Link : https://expense-tracker-cn7e.onrender.com
 ## ** Frontend **
 
 Netlify Link : https://effortless-tartufo-d944a5.netlify.app/
+
+
+## Trade-offs ##
+
+- No authentication 
+
+- No backend tests due to time constraints
+
+- Styling is minimal, prioritizing usability over design

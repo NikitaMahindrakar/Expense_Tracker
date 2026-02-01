@@ -1,4 +1,4 @@
-const API = "http://localhost:5300"; // your backend URL
+const API = "https://expense-tracker-cn7e.onrender.com"; // your backend URL
 
 const form = document.getElementById("expenseForm");
 const list = document.getElementById("expenseList");

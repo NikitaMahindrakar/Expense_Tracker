@@ -63,4 +63,4 @@ Netlify Link : https://effortless-tartufo-d944a5.netlify.app/
 
 - No backend tests due to time constraints
 
-- Styling is minimal, prioritizing usability over design
+- Styling is minimal, prioritizing usability over design.
